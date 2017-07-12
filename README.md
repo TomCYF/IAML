@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introductory applied machine learning (INFR10069)
 
 # Setting up for DICE
@@ -78,3 +79,6 @@ jupyter notebook
 ```
 
 Then click on `01_Lab_1_Introduction.ipynb` to open it.
+=======
+# IAML
+>>>>>>> 0c745515fe5777cd888d382753657fbd00ac82d5
